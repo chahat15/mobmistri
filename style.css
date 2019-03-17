@@ -1,0 +1,234 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'source sans pro', arial;
+}
+.nav{
+    color: #666666;
+    font-weight: 300;
+    font-size: 14px;
+    transition: color 0.3s;
+    letter-spacing: 0.8px;
+    display: inline;
+    background: none;
+    padding: 18px;
+}
+.icon-bar{
+    background-color: #8dbef9;
+    margin-left: 290px;
+}
+.navbar-inverse{
+    background-color: #b9c0ec;
+    border: #fff;
+}
+.navbar-links li a {
+    color: #666666;
+    font-weight: 300;
+    font-size: 14px;
+    margin-left: 15px;
+    padding-left: 15px;
+    list-style: none;
+    letter-spacing: 0.8px;
+}
+.nav-item{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.navbar-links{
+    display: inline;
+}
+.mob-content{
+    height: 400px;
+}
+.navbar-right{
+    margin-top: 25px;
+}
+.h1-tag{
+    font-family:'source sans pro', arial;
+    text-align: center;
+    font-size: 4.75rem;
+    line-height: 1.4;
+    font-weight: 200;
+    letter-spacing: 3px;
+}
+.subtitle{
+    padding-top: 10px;
+    font-weight: 400;
+    color: #9b9b9b;
+    text-align: center;
+}
+/* mob-content */
+.mob-content {
+    text-align: center;
+}
+/* features div */
+.mob-features {
+    margin-top: 250px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    font-family:'source sans pro', arial;
+    align-content: center;
+    font-size: 14px;
+    background-color: #fafafb;
+}
+.mob-features p{
+    font-size: 18px;
+    padding-top: 15px;
+    font-weight: 300;
+    margin-top: 30px;
+}
+.h2-tag {
+    text-align: center;
+    color: #666666;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 40px;
+    margin-bottom: 50px;
+    font-weight: 300;
+    font-family:'source sans pro', arial;
+
+}
+.center-col {
+    text-align: center;
+    min-height: 320px;
+}
+.micromini-container {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 20px;
+}
+.h3-tag{
+    font-family:'source sans pro', arial;
+    font-family: open sans;
+    font-weight: 500;
+    color: #666666;
+    margin-top: 30px;
+}
+/* about us div */
+.mob-about{
+    font-size: 16px;
+    padding:40px;
+    font-weight: 200;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 3; 
+    background-color: #fafafb;
+    margin-top:30px; 
+    border-bottom: 1px solid #E1E1E1;
+}
+.container{
+    font-size: 18px;
+    font-weight: 400;
+}
+h6:hover{
+    color: purple;
+}
+.faq-span {
+    margin: 25px;
+    padding-left: 35%;
+    align-content: center;
+    font-size: 18px;
+    color: #666666;
+}
+.faq-div{
+    padding: 30px;
+    align-content: center;
+}
+.ques{
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 400;
+    margin: 15px;
+    font-size: 16px;
+    display: block;
+}
+.answer{
+    color: #000;
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 400;
+    margin: 15px;
+    font-size: 16px;
+    display: block;
+}
+footer{
+    align-content: center;
+    text-align: center;
+    background-color: #222;
+    font-weight: 300;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.mid-div{
+    margin-left:80px;
+}
+ul{
+    margin: 10px;
+    text-align: left;
+}
+ul li {
+    list-style-type: none;
+    font-size: 16px;
+}
+td{
+    padding-left: 10px;
+}
+.social-div{
+    list-style-type: none;
+    margin-left: 28px;
+}
+.social-div li{
+    padding: 7px;
+    display: inline;
+    margin-left: 15px;
+    text-align: center;
+}
+.list-group-item{
+    background-color: transparent !important;
+    border: none !important;
+}
+.font-change{
+    color: #fff;
+}
+td, th{
+    text-align: left;
+    padding: 10px !important;
+}
+.btn-primary{
+    padding: 12px;
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: #3b8ee5;
+    font-family:'source sans pro', arial;
+}
+.submit{
+    font-size: 22px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 20px;
+}
+.views{
+    height: 500px;
+}
+.carousel-control{
+    background: none !important;
+}
+.modal-header{
+    background-color: #fff;
+}
+.modal-title{
+    font-family:'source sans pro', arial;
+    font-weight: 500;
+    color: #2f95ff;
+}
+.form-control-lg{
+    border-radius: 1.2rem;
+    margin-left: 3.6rem;
+    width: 230px;
+    border: solid 3px #2f95ff;
+}
+label{
+    color: #2f95ff;
+}
+.modal-dialog{
+    border: solid 4px #2f95ff;
+    border-radius: 1.4rem;
+}

@@ -1,0 +1,79 @@
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+    .SubmitButton{
+        top:68%;
+        font-size: 14px;
+        width:100px;
+        left: 70%;
+    }
+    .mob-about{
+        margin-top: 30px;
+    }
+    .navbar-toggle{
+        position: absolute !important;
+        right:4px;
+        top:20px;
+    }
+    .nav-link{
+        color: #000 !important;
+        border: solid 1px black;
+        text-align: center;
+    }
+    .navbar {
+        height:70px;
+    }
+    .sm-img{
+        position: absolute;
+        left: 15px;
+        top: 5px;
+        display: none;
+    }
+    .SubmitButton{
+        display: none;
+    }
+    .SubmitButton2{
+        position: fixed;
+        top: 60%;
+        display: block;
+        left: 70%;
+        right: 10px;
+        padding:7px;
+        color: #000 !important;
+        font-size: 16px !important;
+        text-align: center;
+        border-radius: 8px;
+        font-size:15px;
+        background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+    }
+    .mob-content{
+        margin-top: 60px;
+    }
+    .mob-features {
+        padding-top: 0px;
+        margin-top: 100px !important;
+    }
+    .mid-div{
+        margin-left: 0 !important;
+    }
+    .social-div{
+        padding-left: 0;
+        padding-bottom: 15px; 
+    }
+    .social-div li{
+        margin-left: 0 !important;
+    }
+    .submit{
+        font-size: 20px;
+        padding-left: 34px;
+        padding-right:34px;
+    }
+    /* faq's page */
+    .faq-span
+    {
+        padding: 0;
+        font-size: 16px;
+        font-weight: 500;
+    }
+  }
